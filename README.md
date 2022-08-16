@@ -1,0 +1,2 @@
+# iitokorosindan
+firebase公開用のいいところ診断です
